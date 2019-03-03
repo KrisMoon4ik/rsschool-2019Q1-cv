@@ -6,7 +6,10 @@ I wanna become frontend developer so I decided to join RS school to learn coding
 **Skills** </br>
 Completed tasks of HTML + CSS basics on CodeAcademy, git basics + js basics. </br>
 There must be the example of my code.. but there isn't any. *Not yet :)* </br>
-**Experience**
-Only [achievements on CodeAcademy](https://www.codecademy.com/users/_krismoon/achievements)
+**Experience** </br>
+Only [achievements on CodeAcademy](https://www.codecademy.com/users/_krismoon/achievements) </br>
+*Education </br>*
+RS School + CodeAcademy. </br>
+
 
 
