@@ -1,4 +1,5 @@
 #This is my first CV. </br>
 My name is **Sofiya Tarasova.** </br>
 My contacts [vk](https://vk.com/krismoon) & [facebook](https://www.facebook.com/sonya.tarasova.39) </br>
-
+*Summary:*
+I wanna become frontend developer so I decided to join RS school to learn coding. I haven't programmed before (school lessons of Pascal doesn't count) so at this stage of learning hard times have began for me. But I'm excited of everything that we are doing here! I'm keen on spending hours and hours learning new information and coding. So I will try to do everything in my power to be one of your best students and take out of learning the maximum benefit and knowledge. Walk and ye shall reach.
