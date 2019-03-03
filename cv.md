@@ -10,6 +10,8 @@ There must be the example of my code.. but there isn't any. *Not yet :)* </br>
 Only [achievements on CodeAcademy](https://www.codecademy.com/users/_krismoon/achievements) </br>
 *Education </br>*
 RS School + CodeAcademy. </br>
+**English level** </br>
+My level of English is **B2**. I used to participate in olympiads at school and recieve some diplomas. Also, I was in London once.
 
 
 
