@@ -6,7 +6,7 @@ I wanna become frontend developer so I decided to join RS school to learn coding
 **Skills** 
 Completed tasks of HTML + CSS basics on CodeAcademy, git basics + js basics. 
 There must be the example of my code.. but there isn't any. *Not yet :)* 
-**Experience** </br>
+**Experience** 
 Only [achievements on CodeAcademy](https://www.codecademy.com/users/_krismoon/achievements) 
 *Education*
 RS School + CodeAcademy. 
